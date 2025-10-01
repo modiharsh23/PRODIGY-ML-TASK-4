@@ -88,7 +88,7 @@ The trained CNN model performs exceptionally well on this dataset, achieving **9
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
+    git clone [https://github.com/modiharsh23/PRODIGY-ML-TASK-4.git](https://github.com/modiharsh23/PRODIGY-ML-TASK-4.git)
     cd YOUR-REPOSITORY-NAME
     ```
 
